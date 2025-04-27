@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/Users/tanis/Documents/PROJECTS/Smart-City-Management/src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/tanis/Documents/PROJECTS/Smart-City-Management/src/main/frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/tanis/Documents/PROJECTS/Smart-City-Management/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\tanis\\Documents\\PROJECTS\\Smart-City-Management\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\tanis\\Documents\\PROJECTS\\Smart-City-Management\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/tanis/Documents/PROJECTS/Smart-City-Management/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/tanis/Documents/PROJECTS/Smart-City-Management/target/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/tanis/Documents/PROJECTS/Smart-City-Management/src/main/frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "C:\\Users\\tanis\\Documents\\PROJECTS\\Smart-City-Management\\target\\sw.ts",
+  "pwaEnabled": true,
+  "offlineEnabled": true,
+  "offlinePath": "'.'"
+}
