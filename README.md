@@ -1,16 +1,38 @@
-# Project Base for a Vaadin application
+# Smart City Management System
 
-This project can be used as a starting point to create your own Vaadin application.
-It has the necessary dependencies and files to help you get started.
-It requires Java 8 or newer and node.js 10.16 or newer.
+A comprehensive platform for managing and monitoring smart city infrastructure, services, and data.
 
-To run the project, run `mvn jetty:run` and open [http://localhost:8080](http://localhost:8080) in browser.
+## Overview
 
-To update to the latest available Vaadin release, issue `mvn 
-versions:update-properties`
+The Smart City Management System is a web-based application built with Vaadin Flow that provides tools for city administrators to monitor, analyze, and manage various aspects of urban infrastructure and services. The system integrates mapping capabilities, real-time data visualization, and administrative controls to create a unified management platform.
 
-Some useful links:
-- [Feature overview](https://vaadin.com/flow)
-- [Documentation](https://vaadin.com/docs/flow/Overview.html)
-- [Tutorials](https://vaadin.com/tutorials?q=tag:Flow) 
-- [Component Java integrations and examples](https://vaadin.com/components)
+## Features
+
+- **Interactive Maps**: Visualize city infrastructure and services using OpenLayers integration
+- **Real-time Monitoring**: Track and analyze data from various city systems
+- **Administrative Dashboard**: Manage users, permissions, and system configurations
+- **Responsive Design**: Access the system from desktop or mobile devices
+
+## Technology Stack
+
+- **Frontend**: Vaadin Flow (Java-based web framework)
+- **Maps**: OpenLayers integration via Vaadin Map component
+- **Backend**: Java
+- **Build Tool**: Maven
+
+## Getting Started
+
+### Prerequisites
+
+- Java 11 or higher
+- Maven 3.6 or higher
+- A modern web browser
+
+
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/Smart_City_Management.git
+   cd Smart_City_Management
